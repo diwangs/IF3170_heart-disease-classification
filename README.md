@@ -12,7 +12,7 @@ Project Members
 
 Project Structure
 ------------
-simplified version of (cookiecutter's)[https://drivendata.github.io/cookiecutter-data-science/] structure
+simplified version of [cookiecutter's](https://drivendata.github.io/cookiecutter-data-science/) structure
 
 
     ├── LICENSE
