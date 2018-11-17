@@ -1,4 +1,4 @@
-Column1,Column2,Column3,Column4,Column5,Column6,Column7,Column8,Column9,Column10,Column11,Column12,Column13,Column14
+age,sex,chest_pain_type,resting_blood_pressure,serum_cholestrol,fasting_blood_sugar,resting_ECG,max_heart_rate_achieved,excercise_induced_angina,ST_depression,peak_exercise_ST_segment,num_of_major_vessels,thal,heart_disease_diagnosis
 54,1,4,125,216,0,0,140,0,0,?,?,?,1
 55,1,4,158,217,0,0,110,1,2.5,2,?,?,1
 54,0,3,135,304,1,0,170,0,0,1,0,3,0
