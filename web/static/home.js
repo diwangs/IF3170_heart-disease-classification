@@ -1,0 +1,3 @@
+function huyu() {
+    alert("huyu");
+}
