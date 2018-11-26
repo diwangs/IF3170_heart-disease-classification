@@ -1,4 +1,8 @@
 # notebooks
 notebooks/.ipynb_checkpoints/
+
 # pycache
 __pycache__/
+
+# vs code
+.vscode
