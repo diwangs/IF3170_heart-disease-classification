@@ -72,7 +72,7 @@ def predict_result(data):
 
     result = {
         "verdict": ("Normal" if y == 0 else "Disease"),
-        "category": y
+        "category": y[0]
     }
 
     return result
