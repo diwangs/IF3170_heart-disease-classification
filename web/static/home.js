@@ -1,3 +1,0 @@
-function huyu() {
-    alert("huyu");
-}
